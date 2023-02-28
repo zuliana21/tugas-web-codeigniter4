@@ -1,0 +1,9 @@
+document.writeln(" <script src='https://cdn.jsdelivr.net/gh/adop-devel/jsdelivr@main/adop_sdk_p4.1.0.min.js'><\/script><div style='position: absolute; left: -10000px; top: 0px; overflow: hidden; width:1px; height: 1px;'>     ");
+document.writeln(" <script>     ");
+document.writeln(" var adop_dmp = function(){     ");
+document.writeln("     adop_set({ad_date: '20230117043650',acid:'-230117030847-f950173ec5d44735',ctry:'',ip:'103.145.140.18',url:'https%3A%2F%2Fwww.petanikode.com%2F',net:'AdX-Stream 360',ad_direction:'v',ad_full_loc:'https%3A%2F%2Fwww.petanikode.com%2Fcodeigniter4-view%2F',area_idx:'dfcba1fd-4d32-4410-a7e8-443806036153',aid:'6bbc6ea9-3957-4e0a-ac39-b9f33bcada7d',log_type:'basic',tp:'re',fp: '0'});     ");
+document.writeln(" };     ");
+document.writeln(" adop_dmp();     ");
+document.writeln(" <\/script></div>     ");
+document.writeln("      ");
+document.writeln(" <script id=\"adop-video-ads\" src=\"https://compasscdn.adop.cc/js/adop_video_plus_ads_mva_min_1.js\" tag=\"https://pubads.g.doubleclick.net/gampad/ads?iu=/223513049,21737543948/ca-video-pub-5111137191506013-tag/petanikode_v-out_hybrid_360&description_url=https%3A%2F%2Fwww.petanikode.com%2F&tfcd=0&npa=0&sz=1x1%7C400x225%7C640x480%7C640x360%7C480x360%7C400x300&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=&vad_type=linear\" is_customvd=\"n\" customvd=\"\" loc=\"adop-in-read\" width=\"300\" height=\"250\" ratio=\"y\" passback=\"https://compass.adop.cc/RD/285e273a-618e-435e-9cf1-660ccdc84f1c\" bg=\"Y\" origin=\"dfcba1fd-4d32-4410-a7e8-443806036153\" vmap=\"N\" ><\/script>     ");
